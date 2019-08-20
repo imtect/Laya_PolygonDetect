@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":640,"runtime":"script/GameUI.ts","positionVariance_0":100,"maxPartices":100,"height":1136},"compId":1,"child":[{"type":"Label","props":{"y":429,"x":188,"width":181,"valign":"middle","text":"测试","name":"msg","height":68,"fontSize":30,"font":"SimHei","color":"#ffffff","bold":true,"align":"center"},"compId":21}],"loadList":[],"loadList3D":[]}
